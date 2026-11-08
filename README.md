@@ -6,7 +6,7 @@ All 138 are listed below. Browse the newest on [warmada.com/jobs/data](https://w
 
 **By city:** New York (21) · San Francisco (42) · Seattle (1) · Boston (7) · Austin (1) · Chicago (4) · Los Angeles (3) · Denver (1) · Atlanta (2) · Dallas (1) · San Diego (1) · Remote (26) · Elsewhere in the US (28)
 
-**How it is built.** Warmada reads the public job boards of companies on Greenhouse, Ashby and Lever every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a data role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
+**How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a data role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
