@@ -1,16 +1,16 @@
 # US Data Jobs
 
-Open data roles at US employers: 138 data roles at 85 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=data).** Last updated 2026-11-08.
+Open data roles at US employers: 127 data roles at 81 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=data).** Last updated 2026-11-09.
 
-All 138 are listed below. Browse the newest on [warmada.com/jobs/data](https://warmada.com/jobs/data?utm_source=github&utm_medium=list&utm_campaign=data).
+All 127 are listed below. Browse the newest on [warmada.com/jobs/data](https://warmada.com/jobs/data?utm_source=github&utm_medium=list&utm_campaign=data).
 
-**By city:** New York (21) · San Francisco (42) · Seattle (1) · Boston (7) · Austin (1) · Chicago (4) · Los Angeles (3) · Denver (1) · Atlanta (2) · Dallas (1) · San Diego (1) · Remote (26) · Elsewhere in the US (28)
+**By city:** New York (17) · San Francisco (40) · Seattle (1) · Boston (6) · Austin (1) · Chicago (3) · Los Angeles (2) · Denver (1) · Atlanta (2) · Dallas (1) · San Diego (1) · Remote (24) · Elsewhere in the US (28)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a data role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## New York (21)
+## New York (17)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -31,12 +31,8 @@ A bad listing? Email hello@warmada.com with the link.
 | [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=data) | Staff Machine Learning Engineer, CustomerLake (ML/LLM) | New York City, New York | Oct 29 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8923831002) · [Find the hiring manager](https://warmada.com/job/databricks-staff-machine-learning-engineer-customerlake-ml-llm-cce3cdbf-2911-46e7-bb60-7e5837f4ae85?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=data) | Data Science Tech Lead Manager, Model Experience | New York City, NY; San Francisco, CA; Seattle, WA | Oct 28 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5197211008) · [Find the hiring manager](https://warmada.com/job/anthropic-data-science-tech-lead-manager-model-experience-bcd377a4-6a3a-4614-9aa0-ad7fa8ecad72?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=data) | Tech Lead Manager, Core Apps Data Scientist | New York City, NY; San Francisco, CA \| New York City, NY; Seattle, WA | Oct 27 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5464493008) · [Find the hiring manager](https://warmada.com/job/anthropic-tech-lead-manager-core-apps-data-scientist-ee2d025b-013f-4449-9cac-a6392b4716a7?utm_source=github&utm_medium=list&utm_campaign=data) |
-| [FanDuel](https://warmada.com/companies/fanduel?utm_source=github&utm_medium=list&utm_campaign=data) | Staff Analytics Engineer | New York City | Oct 26 | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8303936) · [Find the hiring manager](https://warmada.com/job/fanduel-staff-analytics-engineer-b69dbb8d-3502-4f49-8975-ff7d5704239b?utm_source=github&utm_medium=list&utm_campaign=data) |
-| Kargo | Senior Analytics Engineer | New York, New York, United States | Oct 26 | [Apply](https://www.kargo.com/careers/5274454007?gh_jid=5274454007) · [Find the hiring manager](https://warmada.com/job/kargo-senior-analytics-engineer-cc33d50e-22fb-4c22-bf50-a6ce06706237?utm_source=github&utm_medium=list&utm_campaign=data) |
-| Kargo | Machine Learning Engineer | New York, New York, United States | Oct 26 | [Apply](https://www.kargo.com/careers/5274451007?gh_jid=5274451007) · [Find the hiring manager](https://warmada.com/job/kargo-machine-learning-engineer-9164515e-d035-49fc-aafd-452327164969?utm_source=github&utm_medium=list&utm_campaign=data) |
-| [TripleLift](https://warmada.com/companies/triplelift?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Data Scientist | New York, New York, United States | Oct 26 | [Apply](https://triplelift.com/careers-posts/?gh_jid=8324410) · [Find the hiring manager](https://warmada.com/job/triplelift-senior-data-scientist-0053b7aa-c74b-46f2-b5c9-a2b932206fbe?utm_source=github&utm_medium=list&utm_campaign=data) |
 
-## San Francisco (42)
+## San Francisco (40)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -80,8 +76,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [6sense](https://warmada.com/companies/6sense?utm_source=github&utm_medium=list&utm_campaign=data) | Sr. Data Scientist, Forward-Deployed | San Francisco, California, United States | Oct 27 | [Apply](https://boards.greenhouse.io/6sense/jobs/8304092?gh_jid=8304092) · [Find the hiring manager](https://warmada.com/job/6sense-sr-data-scientist-forward-deployed-0bd56b59-620c-4a03-b8fc-2e787950701d?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [6sense](https://warmada.com/companies/6sense?utm_source=github&utm_medium=list&utm_campaign=data) | Sr. ML Ops Engineer, Forward-Deployed | San Francisco, California, United States | Oct 27 | [Apply](https://boards.greenhouse.io/6sense/jobs/8304088?gh_jid=8304088) · [Find the hiring manager](https://warmada.com/job/6sense-sr-ml-ops-engineer-forward-deployed-5b6188ff-1a8a-4555-8c36-25b31c81f65e?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=data) | Security Data Engineer | Remote-Friendly (Travel Required) \| San Francisco, CA | Oct 26 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5462966008) · [Find the hiring manager](https://warmada.com/job/anthropic-security-data-engineer-613f4d7d-3948-4707-ac90-ddfc254d65ce?utm_source=github&utm_medium=list&utm_campaign=data) |
-| [Pinterest](https://warmada.com/companies/pinterest?utm_source=github&utm_medium=list&utm_campaign=data) | Staff Machine Learning Engineer | San Francisco, CA, US; Remote, US | Oct 26 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8240355) · [Find the hiring manager](https://warmada.com/job/pinterest-staff-machine-learning-engineer-a414434c-3004-4bea-a22d-95375f5dc25d?utm_source=github&utm_medium=list&utm_campaign=data) |
-| [Anthropic](https://warmada.com/companies/anthropic?utm_source=github&utm_medium=list&utm_campaign=data) | Research Scientist, Life Sciences (Computational Chemistry) | San Francisco, CA | Oct 26 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5461863008) · [Find the hiring manager](https://warmada.com/job/anthropic-research-scientist-life-sciences-computational-chemistry-9d53ba50-26bd-4bfb-a6f3-c39667026d24?utm_source=github&utm_medium=list&utm_campaign=data) |
 
 ## Seattle (1)
 
@@ -89,17 +83,16 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Qualtrics](https://warmada.com/companies/qualtrics?utm_source=github&utm_medium=list&utm_campaign=data) | Staff Machine Learning Engineer | Seattle, Washington, United States | Nov 5 | [Apply](https://www.qualtrics.com/careers/us/en/job/8354384?gh_jid=8354384) · [Find the hiring manager](https://warmada.com/job/qualtrics-staff-machine-learning-engineer-0625241f-44c6-4a91-9135-0a7697e2a5e1?utm_source=github&utm_medium=list&utm_campaign=data) |
 
-## Boston (7)
+## Boston (6)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | Immuta | Sr. Data Scientist | College Park, MD \| Columbus, OH \| Boston, MA | Nov 6 | [Apply](https://jobs.lever.co/immuta/944c022f-e645-4898-9d56-005b45dba5d7) · [Find the hiring manager](https://warmada.com/job/immuta-sr-data-scientist-8f8c49a7-0a1f-4100-a295-e31d2203d01d?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=data) | Lead Strategic Finance &amp; Analytics Engineer | Boston, MA | Nov 6 | [Apply](https://www.klaviyo.com/careers/jobs/8196940003?gh_jid=8196940003) · [Find the hiring manager](https://warmada.com/job/klaviyo-lead-strategic-finance-and-analytics-engineer-e525b8a5-42d2-452d-b599-f32a41b1b6f5?utm_source=github&utm_medium=list&utm_campaign=data) |
-| [Hi Marley](https://warmada.com/companies/hi-marley?utm_source=github&utm_medium=list&utm_campaign=data) | Sr. Data Analyst | Hybrid - Boston, MA | Nov 4 | [Apply](https://www.himarley.com/job-openings?gh_jid=8195195003) · [Find the hiring manager](https://warmada.com/job/hi-marley-sr-data-analyst-9dd0baa4-39a0-4467-8559-7edc2e4336f4?utm_source=github&utm_medium=list&utm_campaign=data) |
+| Hi Marley | Sr. Data Analyst | Hybrid - Boston, MA | Nov 4 | [Apply](https://www.himarley.com/job-openings?gh_jid=8195195003) · [Find the hiring manager](https://warmada.com/job/hi-marley-sr-data-analyst-9dd0baa4-39a0-4467-8559-7edc2e4336f4?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=data) | Lead Product Data Scientist, Forecasting | Boston, MA | Oct 30 | [Apply](https://www.klaviyo.com/careers/jobs/8048080003?gh_jid=8048080003) · [Find the hiring manager](https://warmada.com/job/klaviyo-lead-product-data-scientist-forecasting-950c5173-86f2-437b-92d8-00443f80c6ba?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=data) | Lead Product Data Scientist, Agents | Boston, MA | Oct 30 | [Apply](https://www.klaviyo.com/careers/jobs/8048082003?gh_jid=8048082003) · [Find the hiring manager](https://warmada.com/job/klaviyo-lead-product-data-scientist-agents-e5006f9c-a025-4cef-b145-680e922afed6?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Zoox](https://warmada.com/companies/zoox?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Data Scientist | Boston, MA | Oct 28 | [Apply](https://jobs.lever.co/zoox/62ba74a7-862e-4561-904b-075f3b4c8a7b) · [Find the hiring manager](https://warmada.com/job/zoox-senior-data-scientist-7390efe5-90fc-4c4d-b0ac-63096cad11f2?utm_source=github&utm_medium=list&utm_campaign=data) |
-| [Hi Marley](https://warmada.com/companies/hi-marley?utm_source=github&utm_medium=list&utm_campaign=data) | Director, Data Analytics | Hybrid - Boston, MA | Oct 26 | [Apply](https://www.himarley.com/job-openings?gh_jid=8044880003) · [Find the hiring manager](https://warmada.com/job/hi-marley-director-data-analytics-2f6846f1-bda3-4d1f-b949-105f3052ab65?utm_source=github&utm_medium=list&utm_campaign=data) |
 
 ## Austin (1)
 
@@ -107,22 +100,20 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [SambaNova](https://warmada.com/companies/sambanova?utm_source=github&utm_medium=list&utm_campaign=data) | Machine Learning Engineer - New Grad | Austin, Texas, United States; San Jose, California, United States | Nov 3 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) · [Find the hiring manager](https://warmada.com/job/sambanova-machine-learning-engineer-new-grad-10f75eb5-f25e-4ffe-afcf-e827569c1943?utm_source=github&utm_medium=list&utm_campaign=data) |
 
-## Chicago (4)
+## Chicago (3)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Tower Research Capital](https://warmada.com/companies/tower-research-capital?utm_source=github&utm_medium=list&utm_campaign=data) | Quantitative Researcher | Chicago, IL | Oct 30 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8337292) · [Find the hiring manager](https://warmada.com/job/tower-research-capital-quantitative-researcher-3888f77a-b8eb-4f7d-90e3-79c13b771708?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [84.51°](https://warmada.com/companies/84-51?utm_source=github&utm_medium=list&utm_campaign=data) | Lead Data Engineer | Cincinnati, OH; Chicago, IL | Oct 29 | [Apply](https://job-boards.greenhouse.io/8451/jobs/8773368002) · [Find the hiring manager](https://warmada.com/job/84-51-lead-data-engineer-66ea5630-58c6-49bd-a487-1e4cefba870b?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [84.51°](https://warmada.com/companies/84-51?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Data Engineer (P1754) (P1752) | Cincinnati, OH; Chicago, IL | Oct 29 | [Apply](https://job-boards.greenhouse.io/8451/jobs/8923332002) · [Find the hiring manager](https://warmada.com/job/84-51-senior-data-engineer-p1754-p1752-f3fddfcc-2cb6-4d5b-9b44-31880b873ad2?utm_source=github&utm_medium=list&utm_campaign=data) |
-| [Enova International](https://warmada.com/companies/enova-international?utm_source=github&utm_medium=list&utm_campaign=data) | Lead Data Scientist (Hybrid) | Chicago, IL | Oct 26 | [Apply](https://job-boards.greenhouse.io/enova/jobs/8324579) · [Find the hiring manager](https://warmada.com/job/enova-international-lead-data-scientist-hybrid-e265b904-16a9-4388-a340-77ef67f10363?utm_source=github&utm_medium=list&utm_campaign=data) |
 
-## Los Angeles (3)
+## Los Angeles (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Riot Games](https://warmada.com/companies/riot-games?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Manager, Machine Learning Engineering - League of Legends | Los Angeles, USA | Oct 29 | [Apply](https://www.riotgames.com/en/work-with-us/job/8316786?gh_jid=8316786) · [Find the hiring manager](https://warmada.com/job/riot-games-senior-manager-machine-learning-engineering-league-of-legends-e177d4e3-fddc-4adb-b187-b087c04dc791?utm_source=github&utm_medium=list&utm_campaign=data) |
-| [centerfield.com](https://warmada.com/companies/centerfield-com?utm_source=github&utm_medium=list&utm_campaign=data) | Business Analyst | Los Angeles, California | Oct 28 | [Apply](https://jobs.ashbyhq.com/centerfield/ecc1852e-8afb-4f27-adad-cd0f7af8fef9) · [Find the hiring manager](https://warmada.com/job/centerfield-com-business-analyst-e9e142fe-fac2-45c6-95ff-64fa2f95e13a?utm_source=github&utm_medium=list&utm_campaign=data) |
-| [centerfield.com](https://warmada.com/companies/centerfield-com?utm_source=github&utm_medium=list&utm_campaign=data) | Data Scientist | Los Angeles, California | Oct 26 | [Apply](https://jobs.ashbyhq.com/centerfield/600782a4-45ae-424f-ade2-f8217825ae32) · [Find the hiring manager](https://warmada.com/job/centerfield-com-data-scientist-29be1a1c-507f-4d27-ba4a-fa0739a358f1?utm_source=github&utm_medium=list&utm_campaign=data) |
+| centerfield.com | Business Analyst | Los Angeles, California | Oct 28 | [Apply](https://jobs.ashbyhq.com/centerfield/ecc1852e-8afb-4f27-adad-cd0f7af8fef9) · [Find the hiring manager](https://warmada.com/job/centerfield-com-business-analyst-e9e142fe-fac2-45c6-95ff-64fa2f95e13a?utm_source=github&utm_medium=list&utm_campaign=data) |
 
 ## Denver (1)
 
@@ -149,7 +140,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [iambic.ai](https://warmada.com/companies/iambic-ai?utm_source=github&utm_medium=list&utm_campaign=data) | Research Scientist II/Senior Research Scientist, Medicinal Chemistry | San Diego HQ | Nov 6 | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/517a437c-9810-402e-800b-4b593f3b3970) · [Find the hiring manager](https://warmada.com/job/iambic-ai-research-scientist-ii-senior-research-scientist-medicinal-chemistry-37bc5a4a-0ff8-4878-9a0f-ce871f45401e?utm_source=github&utm_medium=list&utm_campaign=data) |
 
-## Remote (26)
+## Remote (24)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -168,6 +159,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [GitLab](https://warmada.com/companies/gitlab?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Manager, Data Science | Remote, Canada; Remote, United States | Oct 30 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8922062002) · [Find the hiring manager](https://warmada.com/job/gitlab-senior-manager-data-science-d57c4ec6-d269-4ebd-bf23-a9a273cf8851?utm_source=github&utm_medium=list&utm_campaign=data) |
 | Route | Senior Product Analyst | Lehi, Utah, United States; Remote | Oct 30 | [Apply](https://careers.route.com/job-board?gh_jid=8085822003) · [Find the hiring manager](https://warmada.com/job/route-senior-product-analyst-0b1908ce-3941-490e-99d4-9c87cdfba385?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Instacart](https://warmada.com/companies/instacart?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Machine Learning Engineer, Fulfillment | United States - Remote | Oct 30 | [Apply](https://instacart.careers/job/?gh_jid=8240305) · [Find the hiring manager](https://warmada.com/job/instacart-senior-machine-learning-engineer-fulfillment-e97d5a32-d8de-4eb7-8f7f-5205be7953ff?utm_source=github&utm_medium=list&utm_campaign=data) |
+| [Businessolver](https://warmada.com/companies/businessolver?utm_source=github&utm_medium=list&utm_campaign=data) | Business Analyst I (Remote) | Remote - United States | Oct 30 | [Apply](https://www.businessolver.com/careers/openings/?gh_jid=8024937) · [Find the hiring manager](https://warmada.com/job/businessolver-business-analyst-i-remote-9b133bb2-8f4c-4864-a093-6319b533e62f?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Reddit](https://warmada.com/companies/reddit?utm_source=github&utm_medium=list&utm_campaign=data) | Staff Machine Learning Engineer, Ads Forecasting &amp; Scenarios | Remote - United States | Oct 29 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8334138) · [Find the hiring manager](https://warmada.com/job/reddit-staff-machine-learning-engineer-ads-forecasting-and-scenarios-0b2f0638-2c79-4b66-9355-b2f9588a8be3?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Coinbase](https://warmada.com/companies/coinbase?utm_source=github&utm_medium=list&utm_campaign=data) | Staff Machine Learning Engineer, Compliance Automation (Platform) | Remote - USA | Oct 29 | [Apply](https://www.coinbase.com/careers/positions/8333165?gh_jid=8333165) · [Find the hiring manager](https://warmada.com/job/coinbase-staff-machine-learning-engineer-compliance-automation-platform-095dcea8-d10c-4f68-bb83-7d99960e430b?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Twilio](https://warmada.com/companies/twilio?utm_source=github&utm_medium=list&utm_campaign=data) | Machine Learning Engineer 2 | Remote - US | Oct 28 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8240487) · [Find the hiring manager](https://warmada.com/job/twilio-machine-learning-engineer-2-15a957e7-60e8-4298-b6d3-858d197c5f60?utm_source=github&utm_medium=list&utm_campaign=data) |
@@ -176,9 +168,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Upstart](https://warmada.com/companies/upstart?utm_source=github&utm_medium=list&utm_campaign=data) | Applied Scientist | United States \| Remote | Oct 28 | [Apply](https://careers.upstart.com/jobs?gh_jid=8329488) · [Find the hiring manager](https://warmada.com/job/upstart-applied-scientist-48ab5bf7-9a70-44d4-8d31-c26c3a2cab3d?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Palmetto Clean Technology](https://warmada.com/companies/palmetto-clean-technology?utm_source=github&utm_medium=list&utm_campaign=data) | Staff Data Engineer | Remote - United States | Oct 27 | [Apply](https://job-boards.greenhouse.io/palmettocleantech/jobs/5464732008) · [Find the hiring manager](https://warmada.com/job/palmetto-clean-technology-staff-data-engineer-8bdf5275-71c0-41db-affe-a05c2b3369ed?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Dave](https://warmada.com/companies/dave?utm_source=github&utm_medium=list&utm_campaign=data) | Staff Machine Learning Scientist | United States | Oct 27 | [Apply](https://jobs.ashbyhq.com/dave/b68f96aa-b7bc-4bbc-9b29-4fd87cca84a2) · [Find the hiring manager](https://warmada.com/job/dave-staff-machine-learning-scientist-4de5c334-f3ea-4923-a5fe-ff7e73392052?utm_source=github&utm_medium=list&utm_campaign=data) |
-| [intellistack.com](https://warmada.com/companies/intellistack-com?utm_source=github&utm_medium=list&utm_campaign=data) | Business Analyst | Remote/United States | Oct 26 | [Apply](https://jobs.ashbyhq.com/Intellistack/9fe81c58-ff0b-4155-9b2e-a52751e31755) · [Find the hiring manager](https://warmada.com/job/intellistack-com-business-analyst-58fbb400-dd54-453e-819e-12ffd52b42fb?utm_source=github&utm_medium=list&utm_campaign=data) |
-| [sentilink.com](https://warmada.com/companies/sentilink-com?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Software Engineer, Data Platform | United States | Oct 26 | [Apply](https://jobs.ashbyhq.com/sentilink/a2463ea0-6585-429c-95f2-10dc4a8cdae8) · [Find the hiring manager](https://warmada.com/job/sentilink-com-senior-software-engineer-data-platform-2d7003f3-4ad0-416e-b0c7-a689180d4732?utm_source=github&utm_medium=list&utm_campaign=data) |
-| [centerfield.com](https://warmada.com/companies/centerfield-com?utm_source=github&utm_medium=list&utm_campaign=data) | Sr. Business Analyst | Remote, United States | Oct 26 | [Apply](https://jobs.ashbyhq.com/centerfield/41d3c0b1-eaf5-40e8-9657-3ac8410d4c06) · [Find the hiring manager](https://warmada.com/job/centerfield-com-sr-business-analyst-15a636fb-d9ac-4dd7-a9de-214b399efe85?utm_source=github&utm_medium=list&utm_campaign=data) |
 
 ## Elsewhere in the US (28)
 
@@ -210,5 +199,5 @@ A bad listing? Email hello@warmada.com with the link.
 | [42dot.ai](https://warmada.com/companies/42dot-ai?utm_source=github&utm_medium=list&utm_campaign=data) | Machine Learning Engineer, Driving Foundation Models | Sunnyvale, United States | Oct 27 | [Apply](https://jobs.ashbyhq.com/42dot/65bd0f6e-1e77-438f-9c52-5730922f132a) · [Find the hiring manager](https://warmada.com/job/42dot-ai-machine-learning-engineer-driving-foundation-models-00aa6586-fc06-4ce1-93d9-52b26c5c3200?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Pendo](https://warmada.com/companies/pendo?utm_source=github&utm_medium=list&utm_campaign=data) | Director of Engineering, Data Platform | Raleigh, NC | Oct 27 | [Apply](https://job-boards.greenhouse.io/pendo/jobs/8822008002) · [Find the hiring manager](https://warmada.com/job/pendo-director-of-engineering-data-platform-90de4986-c324-4a5b-b202-e473fd2573df?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Attentive](https://warmada.com/companies/attentive?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Analytics Engineer | United States | Oct 27 | [Apply](https://job-boards.greenhouse.io/attentive/jobs/4469280009) · [Find the hiring manager](https://warmada.com/job/attentive-senior-analytics-engineer-4195587a-07f0-4c05-8352-0beccb7377a4?utm_source=github&utm_medium=list&utm_campaign=data) |
-| [CSCI Consulting](https://warmada.com/companies/csci-consulting?utm_source=github&utm_medium=list&utm_campaign=data) | Business Analyst | Scott Air Force Base, IL | Oct 27 | [Apply](https://job-boards.greenhouse.io/csciconsulting/jobs/5464792008) · [Find the hiring manager](https://warmada.com/job/csci-consulting-business-analyst-fd806f83-b7cb-4c6c-99dc-69d2e6268472?utm_source=github&utm_medium=list&utm_campaign=data) |
+| CSCI Consulting | Business Analyst | Scott Air Force Base, IL | Oct 27 | [Apply](https://job-boards.greenhouse.io/csciconsulting/jobs/5464792008) · [Find the hiring manager](https://warmada.com/job/csci-consulting-business-analyst-fd806f83-b7cb-4c6c-99dc-69d2e6268472?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Quince](https://warmada.com/companies/quince?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Data Analyst, Growth Marketing | Palo Alto, California, United States | Oct 26 | [Apply](https://job-boards.greenhouse.io/quince/jobs/5258075008) · [Find the hiring manager](https://warmada.com/job/quince-senior-data-analyst-growth-marketing-4f73e362-10e3-4a33-90b6-4b22442d028a?utm_source=github&utm_medium=list&utm_campaign=data) |
