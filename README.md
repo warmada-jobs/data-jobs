@@ -1,10 +1,10 @@
 # US Data Jobs
 
-Open data roles at US employers: 127 data roles at 87 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=data).** Last updated 2026-11-14.
+Open data roles at US employers: 128 data roles at 87 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=data).** Last updated 2026-11-15.
 
-All 127 are listed below. Browse the newest on [warmada.com/jobs/data](https://warmada.com/jobs/data?utm_source=github&utm_medium=list&utm_campaign=data).
+All 128 are listed below. Browse the newest on [warmada.com/jobs/data](https://warmada.com/jobs/data?utm_source=github&utm_medium=list&utm_campaign=data).
 
-**By city:** New York (21) · San Francisco (26) · Seattle (1) · Boston (4) · Austin (1) · Chicago (3) · Los Angeles (3) · Denver (1) · Dallas (1) · San Diego (1) · Remote (23) · Elsewhere in the US (42)
+**By city:** New York (21) · San Francisco (27) · Seattle (1) · Boston (4) · Austin (1) · Chicago (3) · Los Angeles (3) · Denver (1) · Dallas (1) · San Diego (1) · Remote (23) · Elsewhere in the US (42)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a data role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -36,10 +36,11 @@ A bad listing? Email hello@warmada.com with the link.
 | [Waymo](https://warmada.com/companies/waymo?utm_source=github&utm_medium=list&utm_campaign=data) | Staff Machine Learning Engineer, AI Infrastructure | Mountain View, CA, USA; San Francisco, CA, USA; New York, NY, USA | Nov 5 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8354804) · [Find the hiring manager](https://warmada.com/job/waymo-staff-machine-learning-engineer-ai-infrastructure-7d98c328-c2a1-4694-b3e5-1ccefad2d059?utm_source=github&utm_medium=list&utm_campaign=data) |
 | Doctronic | Senior Data Engineer | New York City | Nov 3 | [Apply](https://jobs.ashbyhq.com/doctronic/27a0e05a-c336-4daf-92bf-0e7961c4f2ae) · [Find the hiring manager](https://warmada.com/job/doctronic-senior-data-engineer-2b014784-0440-4fc1-ace3-7537c0b1fbc2?utm_source=github&utm_medium=list&utm_campaign=data) |
 
-## San Francisco (26)
+## San Francisco (27)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [OpenAI](https://warmada.com/companies/openai?utm_source=github&utm_medium=list&utm_campaign=data) | Applied Scientist, Product Policy Research &amp; Measurement | San Francisco | Nov 14 | [Apply](https://jobs.ashbyhq.com/openai/73875295-889e-4373-b20f-654e85c66ba4) · [Find the hiring manager](https://warmada.com/job/openai-applied-scientist-product-policy-research-and-measurement-0b33f260-507e-4d67-8ad0-cdad88ad45df?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Clay Labs](https://warmada.com/companies/clay-labs?utm_source=github&utm_medium=list&utm_campaign=data) | Machine Learning Engineer | San Francisco | Nov 14 | [Apply](https://jobs.ashbyhq.com/claylabs/f8d2a754-8ac4-4ba8-9c36-ed56184132a7) · [Find the hiring manager](https://warmada.com/job/clay-labs-machine-learning-engineer-21032b18-4e01-46d0-8ca8-4880d7bd6649?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Chime](https://warmada.com/companies/chime?utm_source=github&utm_medium=list&utm_campaign=data) | Director, Machine Learning Engineering | San Francisco, CA, USA | Nov 13 | [Apply](https://boards.greenhouse.io/chime/jobs/8765680002?gh_jid=8765680002) · [Find the hiring manager](https://warmada.com/job/chime-director-machine-learning-engineering-2a6747bc-207e-4b49-a108-576718136011?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Sentry](https://warmada.com/companies/sentry?utm_source=github&utm_medium=list&utm_campaign=data) | Engineering Manager, Data Platform | San Francisco, California | Nov 13 | [Apply](https://jobs.ashbyhq.com/sentry/20f76384-83a0-4e49-b3d8-5bde14c7d0f2) · [Find the hiring manager](https://warmada.com/job/sentry-engineering-manager-data-platform-3783410a-e025-4c91-8099-0763a791f004?utm_source=github&utm_medium=list&utm_campaign=data) |
