@@ -1,10 +1,10 @@
 # US Data Jobs
 
-Open data roles at US employers: 137 data roles at 96 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=data).** Last updated 2026-11-21.
+Open data roles at US employers: 139 data roles at 98 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=data).** Last updated 2026-11-22.
 
-All 137 are listed below. Browse the newest on [warmada.com/jobs/data](https://warmada.com/jobs/data?utm_source=github&utm_medium=list&utm_campaign=data).
+All 139 are listed below. Browse the newest on [warmada.com/jobs/data](https://warmada.com/jobs/data?utm_source=github&utm_medium=list&utm_campaign=data).
 
-**By city:** New York (33) · San Francisco (29) · Seattle (2) · Boston (2) · Austin (3) · Chicago (4) · Los Angeles (3) · Dallas (1) · Remote (20) · Elsewhere in the US (40)
+**By city:** New York (33) · San Francisco (29) · Seattle (2) · Boston (2) · Austin (3) · Chicago (5) · Los Angeles (3) · Dallas (1) · Remote (21) · Elsewhere in the US (40)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a data role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -104,11 +104,12 @@ A bad listing? Email hello@warmada.com with the link.
 | Integra FEC | Junior Data Scientist | Austin, Texas | Nov 18 | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008) · [Find the hiring manager](https://warmada.com/job/integra-fec-junior-data-scientist-1504fe70-669f-4cb8-bb79-6f6b3e9e76ca?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Data Scientist | Austin, TX | Nov 17 | [Apply](https://jobs.ashbyhq.com/saronic/30960718-0070-4376-9563-db0b4d7a3f75) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-senior-data-scientist-ac81fb1d-6128-456a-b793-eb2c2bb81f81?utm_source=github&utm_medium=list&utm_campaign=data) |
 
-## Chicago (4)
+## Chicago (5)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Fin](https://warmada.com/companies/fin?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Forward Deployed Data Scientist | Chicago, Illinois | Nov 19 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/8403407) · [Find the hiring manager](https://warmada.com/job/fin-senior-forward-deployed-data-scientist-28944cef-b79e-438a-bb2b-002efba1aafe?utm_source=github&utm_medium=list&utm_campaign=data) |
+| [Rush Street Interactive](https://warmada.com/companies/rush-street-interactive?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Product Analyst, Digital Measurement | Canada - Remote; Chicago; New Jersey | Nov 18 | [Apply](https://job-boards.greenhouse.io/rushstreetinteractive/jobs/6254978004) · [Find the hiring manager](https://warmada.com/job/rush-street-interactive-senior-product-analyst-digital-measurement-5f6d294d-65fc-4a62-8bcf-003fdfa5e7b5?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [84.51°](https://warmada.com/companies/84-51?utm_source=github&utm_medium=list&utm_campaign=data) | Lead Data Engineer (P3999) | Cincinnati, OH; Chicago, IL | Nov 17 | [Apply](https://job-boards.greenhouse.io/8451/jobs/8924231002) · [Find the hiring manager](https://warmada.com/job/84-51-lead-data-engineer-p3999-96dc5ce3-95f7-4c49-91f4-df2922a71f2b?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [84.51°](https://warmada.com/companies/84-51?utm_source=github&utm_medium=list&utm_campaign=data) | Lead Data Scientist (P4296) | Cincinnati, OH; Chicago, IL | Nov 13 | [Apply](https://job-boards.greenhouse.io/8451/jobs/8924525002) · [Find the hiring manager](https://warmada.com/job/84-51-lead-data-scientist-p4296-04697642-a16b-45fa-9228-1ed3633c91d5?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Chime](https://warmada.com/companies/chime?utm_source=github&utm_medium=list&utm_campaign=data) | Data Scientist, Dispute Risk | Chicago, IL, USA | Nov 9 | [Apply](https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002) · [Find the hiring manager](https://warmada.com/job/chime-data-scientist-dispute-risk-94167d45-55ba-4a6b-8159-cff706557d3a?utm_source=github&utm_medium=list&utm_campaign=data) |
@@ -127,11 +128,12 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Nextdoor](https://warmada.com/companies/nextdoor?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Machine Learning Engineer - Search | Dallas, TX | Nov 18 | [Apply](https://about.nextdoor.com/careers-list/?gh_jid=8399912) · [Find the hiring manager](https://warmada.com/job/nextdoor-senior-machine-learning-engineer-search-2fef8e6b-1d39-47dc-b8bf-915f05eb31fc?utm_source=github&utm_medium=list&utm_campaign=data) |
 
-## Remote (20)
+## Remote (21)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Airbnb](https://warmada.com/companies/airbnb?utm_source=github&utm_medium=list&utm_campaign=data) | Staff Data Scientist - Martech Platform (ML/Algos) | Remote - USA | Nov 20 | [Apply](https://careers.airbnb.com/positions/8350696?gh_jid=8350696) · [Find the hiring manager](https://warmada.com/job/airbnb-staff-data-scientist-martech-platform-ml-algos-ac054241-fb8f-428e-8ac3-b055f6d2c773?utm_source=github&utm_medium=list&utm_campaign=data) |
+| Modern Health | Staff Analytics Engineer | Remote - US | Nov 20 | [Apply](https://job-boards.greenhouse.io/modernhealth/jobs/8950375002) · [Find the hiring manager](https://warmada.com/job/modern-health-staff-analytics-engineer-f06f49db-fca7-4ab1-8397-693fe98a2848?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Reddit](https://warmada.com/companies/reddit?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Staff Machine Learning Engineer, Ads Ranking | Remote - United States | Nov 19 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8368600) · [Find the hiring manager](https://warmada.com/job/reddit-senior-staff-machine-learning-engineer-ads-ranking-92ac11f0-f780-410d-865a-3fbe84c8da86?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [Thumbtack](https://warmada.com/companies/thumbtack?utm_source=github&utm_medium=list&utm_campaign=data) | Data Scientist II, Marketing | Remote, United States | Nov 19 | [Apply](https://jobs.ashbyhq.com/thumbtack/41a2b5a1-eff3-4a32-9e5f-e51f7e7856e8) · [Find the hiring manager](https://warmada.com/job/thumbtack-data-scientist-ii-marketing-48af577d-fbf7-4fba-9981-d9ef16aa5852?utm_source=github&utm_medium=list&utm_campaign=data) |
 | [EnergyHub](https://warmada.com/companies/energyhub?utm_source=github&utm_medium=list&utm_campaign=data) | Senior Data Engineer, C&amp;I | Remote - United States | Nov 18 | [Apply](https://job-boards.greenhouse.io/energyhub/jobs/8947924002) · [Find the hiring manager](https://warmada.com/job/energyhub-senior-data-engineer-c-and-i-5647b510-8911-450a-a8d2-8f7f277969e8?utm_source=github&utm_medium=list&utm_campaign=data) |
